@@ -1,0 +1,9 @@
+[package]
+name = "portsc"
+version = "0.1.0"
+authors = ["wuuzw <29149346+wuuzw@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+getopts = "0.2.19"
+colored = "1.8"
